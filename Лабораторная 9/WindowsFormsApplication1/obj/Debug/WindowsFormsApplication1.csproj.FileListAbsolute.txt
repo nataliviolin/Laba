@@ -1,0 +1,18 @@
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9 new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учеба\Проектирование информационных систем\Практика\Лабораторная 9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Учеба\Проектирование информационных систем\1 семестр\Практика\Лабораторная 9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учеба\Проектирование информационных систем\1 семестр\Практика\Лабораторная 9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учеба\Проектирование информационных систем\1 семестр\Практика\Лабораторная 9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Учеба\Проектирование информационных систем\2 семестр\Лабораторная 15\Лаба\Лабораторная 9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Учеба\Проектирование информационных систем\2 семестр\Лабораторная 15\Лаба\Лабораторная 9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Учеба\Проектирование информационных систем\2 семестр\Лабораторная 15\Лаба\Лабораторная 9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
